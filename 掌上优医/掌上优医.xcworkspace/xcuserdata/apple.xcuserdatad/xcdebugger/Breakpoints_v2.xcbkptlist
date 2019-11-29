@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F8F10577-A441-41E0-B9D7-2479524DB50A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11AD178C-7AEE-4843-AF21-834DECE0D38D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Module/NewApp/Comments(&#x70b9;&#x8bc4;)/Controller/GHHospitalCommentViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "408"
+            endingLineNumber = "408"
+            landmarkName = "-clickSubmitAction"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "11AD178C-7AEE-4843-AF21-834DECE0D38D - 2d2aaafa9f382ef2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GHHospitalCommentViewController clickSubmitAction]"
+                  moduleName = "&#x638c;&#x4e0a;&#x4f18;&#x533b;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/zsu1_ios_3/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/Module/NewApp/Comments(%E7%82%B9%E8%AF%84)/Controller/GHHospitalCommentViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "408"
+                  endingLineNumber = "408"
+                  offsetFromSymbolStart = "3036">
+               </Location>
+               <Location
+                  uuid = "11AD178C-7AEE-4843-AF21-834DECE0D38D - bac44dc0696c47a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__52-[GHHospitalCommentViewController clickSubmitAction]_block_invoke"
+                  moduleName = "&#x638c;&#x4e0a;&#x4f18;&#x533b;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/zsu1_ios_3/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/Module/NewApp/Comments(%E7%82%B9%E8%AF%84)/Controller/GHHospitalCommentViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "410"
+                  endingLineNumber = "410"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "07F9BABD-48A2-4DC2-8BD9-10A1BA0F3317"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Module/NewApp/Comments(&#x70b9;&#x8bc4;)/Controller/GHHospitalCommentViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "402"
+            endingLineNumber = "402"
+            landmarkName = "-clickSubmitAction"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1741AEE2-7A6E-4865-8DC9-085416B7F16D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Module/NewApp/GoodDoctor(&#x53e3;&#x7891;&#x533b;&#x751f;)/View/GHNewCommentsFootView.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "109"
+            endingLineNumber = "109"
+            landmarkName = "-clickInfoErrorAction"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "41F9F673-1FA6-41F5-B738-5C704EE2D093"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Module/NewApp/SearchHospital(&#x641c;&#x533b;&#x9662;)/Controller/GHHospitalDetailInfoErrorViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1477"
+            endingLineNumber = "1477"
+            landmarkName = "-clickSubmitAction"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "41F9F673-1FA6-41F5-B738-5C704EE2D093 - e3a565be1e3b89db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GHHospitalDetailInfoErrorViewController clickSubmitAction]"
+                  moduleName = "&#x638c;&#x4e0a;&#x4f18;&#x533b;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/zsu1_ios_3/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/Module/NewApp/SearchHospital(%E6%90%9C%E5%8C%BB%E9%99%A2)/Controller/GHHospitalDetailInfoErrorViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1477"
+                  endingLineNumber = "1477"
+                  offsetFromSymbolStart = "8376">
+               </Location>
+               <Location
+                  uuid = "41F9F673-1FA6-41F5-B738-5C704EE2D093 - 1c9c97ea89336c51"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__60-[GHHospitalDetailInfoErrorViewController clickSubmitAction]_block_invoke"
+                  moduleName = "&#x638c;&#x4e0a;&#x4f18;&#x533b;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/zsu1_ios_3/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/Module/NewApp/SearchHospital(%E6%90%9C%E5%8C%BB%E9%99%A2)/Controller/GHHospitalDetailInfoErrorViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1478"
+                  endingLineNumber = "1478"
+                  offsetFromSymbolStart = "80">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2B2C93A8-CED2-4796-AD55-705258207C66"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Module/NewApp/Login/Controller/GHNLoginViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "238"
+            endingLineNumber = "238"
+            landmarkName = "-loginViewClickLoginAction"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C3C64F5-94E8-44D8-AA87-432E8901646F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Module/NewApp/Login/Controller/GHNLoginViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "-getVerifyCodeAction"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2EF2A23-2E34-42FB-BD21-E3F5DC3540E9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Module/NewApp/Login/Controller/GHNLoginViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "-getVerifyCodeAction"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B6B9F58B-049C-436E-B167-1F2FFB997243"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Module/NewApp/Login/Controller/GHNLoginViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "130"
+            endingLineNumber = "130"
+            landmarkName = "-getVerifyCodeAction"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B6B9F58B-049C-436E-B167-1F2FFB997243 - 2980d1a84baec4aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GHNLoginViewController getVerifyCodeAction]"
+                  moduleName = "&#x638c;&#x4e0a;&#x4f18;&#x533b;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/zsu1_ios_3/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/Module/NewApp/Login/Controller/GHNLoginViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "130"
+                  endingLineNumber = "130"
+                  offsetFromSymbolStart = "1316">
+               </Location>
+               <Location
+                  uuid = "B6B9F58B-049C-436E-B167-1F2FFB997243 - bed329e941b0e21d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__45-[GHNLoginViewController getVerifyCodeAction]_block_invoke"
+                  moduleName = "&#x638c;&#x4e0a;&#x4f18;&#x533b;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/zsu1_ios_3/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/Module/NewApp/Login/Controller/GHNLoginViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "132"
+                  endingLineNumber = "132"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "96E9AE12-7F45-4484-9488-E50AAFC74D93"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Module/NewApp/Login/Controller/GHNLoginViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "133"
+            endingLineNumber = "133"
+            landmarkName = "-getVerifyCodeAction"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A19D8893-3DA3-4EA1-9B73-A381507E36B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Tool/UIKit/NSString+Extension.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "256"
+            endingLineNumber = "256"
+            landmarkName = "-isValidPhone"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4ECF0817-B8DC-4831-9CAA-F2CB34F7AEEB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Module/NewApp/Comments(&#x70b9;&#x8bc4;)/Controller/GHCommentDoctorSearchListViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "393"
+            endingLineNumber = "393"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4FE11DD8-7D39-4B1B-A9AA-97489EEE3473"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Module/NewApp/Comments(&#x70b9;&#x8bc4;)/View/GHCommentDoctorRecordTableViewCell.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "338"
+            endingLineNumber = "338"
+            landmarkName = "-clickGotoDetailAction"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D469555D-F3CA-4255-A262-133238F4591B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Module/NewApp/Comments(&#x70b9;&#x8bc4;)/Controller/GHCommentDoctorSearchListViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "489"
+            endingLineNumber = "489"
+            landmarkName = "-requestData"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D469555D-F3CA-4255-A262-133238F4591B - adeae09e22b38c52"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[GHCommentDoctorSearchListViewController requestData]"
+                  moduleName = "&#x638c;&#x4e0a;&#x4f18;&#x533b;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/zsu1_ios_3/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/Module/NewApp/Comments(%E7%82%B9%E8%AF%84)/Controller/GHCommentDoctorSearchListViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "489"
+                  endingLineNumber = "489"
+                  offsetFromSymbolStart = "4044">
+               </Location>
+               <Location
+                  uuid = "D469555D-F3CA-4255-A262-133238F4591B - e5f61c8f09b3c927"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__54-[GHCommentDoctorSearchListViewController requestData]_block_invoke"
+                  moduleName = "&#x638c;&#x4e0a;&#x4f18;&#x533b;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/zsu1_ios_3/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/%E6%8E%8C%E4%B8%8A%E4%BC%98%E5%8C%BB/Module/NewApp/Comments(%E7%82%B9%E8%AF%84)/Controller/GHCommentDoctorSearchListViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "489"
+                  endingLineNumber = "489"
+                  offsetFromSymbolStart = "48">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A03CF2C8-2C10-4DB4-A3AD-EF9D683E2E84"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x638c;&#x4e0a;&#x4f18;&#x533b;/Module/NewApp/Comments(&#x70b9;&#x8bc4;)/Controller/GHCommentDoctorSearchListViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "494"
+            endingLineNumber = "494"
+            landmarkName = "-requestData"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
